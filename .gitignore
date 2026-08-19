@@ -1,0 +1,16 @@
+# Mediul virtual
+venv/
+.venv/
+env/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Date secrete locale Streamlit
+.streamlit/secrets.toml
+
+# Fișiere temporare Word/PDF sau test
+*.tmp
+temp_*
+~$*.docx
