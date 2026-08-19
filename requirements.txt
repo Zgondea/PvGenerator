@@ -2,4 +2,3 @@ streamlit
 docxtpl
 python-docx
 supabase
-//ISS@2026@@@
